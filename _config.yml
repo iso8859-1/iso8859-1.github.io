@@ -28,7 +28,7 @@ twitter_username: mt19937_64
 github_username:  iso8859-1
 
 # Build settings
-theme: jekyll-theme-modernist
+theme: minima
 plugins:
   - jekyll-feed
 
