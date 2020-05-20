@@ -1,0 +1,289 @@
+Runtime Notice: Host session started
+Runtime Notice: s'Version2Manager.updateCampaign - major, aMajor, aMinor = ' | #14 | { s'CoreRPG' = #4, s'PFRPG2' = #14 } | { s'CoreRPG' = #0, s'PFRPG2' = #0 } | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level0@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level0@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #0 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level1@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level1@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #1 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level10@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level10@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #10 | nil | nil | nil | nil | nil
+Runtime Notice: s'spell_header - running setCastingIcons, sCasting = ' | s' M, S, V' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'invisible_casting_string - running onInit. getValue = ' | s' material, somatic, verbal' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'spell_header - running setCastingIcons, sCasting = ' | s' M, S, V' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'addSpellCastAction - sSuccess = ' | s'' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseSpell - sDesc = ' | s'you create a shroud of darkness that prevents light from penetrating or emanating within the area. light does not enter the area and any non-magical light sources, such as a torch or lantern, do not emanate any light while inside the area, even if their light radius would extend beyond the darkness. this also suppresses magical light of your darkness spell's level or lower. light can't pass through, so creatures in the area can't see outside. from outside, it appears as a globe of pure darkness.    ' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level2@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level2@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #2 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level3@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level3@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #3 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level4@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level4@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #4 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level5@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level5@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #5 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level6@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level6@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #6 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level7@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level7@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #7 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level8@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level8@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #8 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level9@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level9@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #9 | nil | nil | nil | nil | nil
+Runtime Notice: s'getProfBonus - charnode, profLevel = ' | databasenode = { reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary } | s'' | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'spell_class: toggleDetail - getDatabaseNode(),  getDatabaseNode().getChild(...), ActorManager.getType = ' | s'reference.npcdata.adultblackdragon.spellset.id-00001@Pathfinder Second Edition Bestiary' | databasenode = { reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary } | s'npc' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level0@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level_mini, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level0@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #0 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level1@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level_mini, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level1@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #1 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level10@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level_mini, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level10@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #10 | nil | nil | nil | nil | nil
+Runtime Notice: s'spell_header - running setCastingIcons, sCasting = ' | s' M, S, V' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'invisible_casting_string - running onInit. getValue, dbnode = ' | s' material, somatic, verbal' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level2.spells.id-00001.casting@Pathfinder Second Edition Bestiary } | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'spell_header - running setCastingIcons, sCasting = ' | s' M, S, V' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level2@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level_mini, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level2@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #2 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level3@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level_mini, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level3@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #3 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level4@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level_mini, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level4@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #4 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level5@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level_mini, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level5@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #5 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level6@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level_mini, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level6@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #6 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level7@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level_mini, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level7@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #7 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level8@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level_mini, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level8@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #8 | nil | nil | nil | nil | nil
+Runtime Notice: s'updateLabel - getDatabaseNode(), window, self, nPowerClass, nLevel  = ' | databasenode = { reference.npcdata.adultblackdragon.spellset.id-00001.levels.level9@Pathfinder Second Edition Bestiary } | nil | windowinstance = { class = spell_level_mini, node = reference.npcdata.adultblackdragon.spellset.id-00001.levels.level9@Pathfinder Second Edition Bestiary, x,y,w,h = 0,0,0,0 } | #0 | #9 | nil | nil | nil | nil | nil
+Runtime Notice: s'onStatUpdate - sActorType, nodeActor = ' | s'npc' | databasenode = { reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary } | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onStatUpdate - ability bonus (nValue), sAbility, rActor = ' | #0 | s'' | { s'sType' = s'npc', s'sCreatureNode' = s'reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary', s'sCTNode' = s'', s'sName' = s'Adult Black Dragon' } | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'srting_traits_line.lua - onInit.  sTraitType = creature'
+Runtime Notice: s'controlSetReadyOnly.  Setting sControl, bReadOnly = ' | s'strength' | bTRUE | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'controlSetReadyOnly.  Setting sControl, bReadOnly = ' | s'dexterity' | bTRUE | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'controlSetReadyOnly.  Setting sControl, bReadOnly = ' | s'constitution' | bTRUE | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'controlSetReadyOnly.  Setting sControl, bReadOnly = ' | s'intelligence' | bTRUE | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'controlSetReadyOnly.  Setting sControl, bReadOnly = ' | s'wisdom' | bTRUE | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'controlSetReadyOnly.  Setting sControl, bReadOnly = ' | s'charisma' | bTRUE | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'actionTextToSymbols.  Before replacement.  sActionText = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'actionTextToSymbols.  No changes found.  Returning sOriginalText = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'actionTextToSymbols.  Before replacement.  sActionText = ' | s'' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'actionTextToSymbols.  No changes found.  Returning sOriginalText = ' | s'' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'actionTextToSymbols.  Before replacement.  sActionText = ' | s'
+<p></p>' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'actionTextToSymbols.  No changes found.  Returning sOriginalText = ' | s'
+<p></p>' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - aPhrasesOR, aSkipOR = ' | { #1 = { #1 = s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid' }, #2 = { #1 = s' claw +25 (agile, magical), Damage 2d10+13 slashing' }, #3 = { #1 = s' tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning' }, #4 = { #1 = s' horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' } } | { #1 = { #1 = #1 }, #2 = { #1 = #1 }, #3 = { #1 = #1 }, #4 = { #1 = #0 } } | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - before checking for action symbols.  sAttackBeginsWith = ' | s'' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find first symbol = ' | #1 | #2 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find second symbol = & #141;' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol = & #141;' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol  = ' | #1 | #1 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol (space)  = ' | #1 | #1 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - first character, byte = ' | s'' | #141 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - second character, byte = ' | s' ' | #32 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol Â = ' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol Â? = ' | #1 | #1 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'Attack string sAnd, sAttackBeginsWith = ' | nil | s'%s*' | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - sAND = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - sAttackStringPattern = ' | s'(%s*%s*(%+?%d*) ?([%w%s,%[%]%(%)%+%-]*) ([%+%-%d][%+%-%d]+)([^%(]*)()%((.*)%)(),%s*Damage%s()([^%)]*)())' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - result of first string.find.  nStarts, nEnds, sAll, sAttackCount, sAttackLabel, sAttackModifier, sAttackType, nTraitsStart, traits, nTraitsEnd = ' | #1 | #80 | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid' | s'' | s'jaws' | s'+25' | s' ' | #12 | s'acid, magical, reach 10 feet' | #42
+Runtime Notice: s'parseAttackLine 1 of 3 - nStarts, nEnds, sAll, sAttackCount, sAttackLabel, sAttackModifier, sAttackType = ' | #1 | #80 | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid' | s'' | s'jaws' | s'+25' | s' ' | nil | nil | nil
+Runtime Notice: s'parseAttackLine 2 of 3 - nTraitsStart, sTraits, nTraitsEnd = ' | #12 | s'acid, magical, reach 10 feet' | #42 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine 3 of 3 - nDamageStart, sDamage, nDamageEnd = ' | #45 | s'2d12+13 piercing plus 2d6 acid' | #81 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - after setting highlight positions. rAttack, rDamage = ' | { s'startpos' = #1, s'traitsStartPos' = #12, s'traits' = s'acid, magical, reach 10 feet', s'traitsEndPos' = #42, s'endpos' = #80 } | { s'endpos' = #82, s'startpos' = #44 } | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'getAbilityBonus - after getAbilityScore, nStatScore, sStat = ' | #7 | s'strength' | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - before checking for action symbols.  sAttackBeginsWith = ' | s'' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find first symbol = ' | #1 | #2 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find second symbol = & #141;' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol = & #141;' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol  = ' | #1 | #1 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol (space)  = ' | #1 | #1 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - first character, byte = ' | s'' | #141 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - second character, byte = ' | s' ' | #32 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol Â = ' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol Â? = ' | #1 | #1 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'Attack string sAnd, sAttackBeginsWith = ' | nil | s'%s*' | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - sAND = ' | s' claw +25 (agile, magical), Damage 2d10+13 slashing' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - sAttackStringPattern = ' | s'(%s*%s*(%+?%d*) ?([%w%s,%[%]%(%)%+%-]*) ([%+%-%d][%+%-%d]+)([^%(]*)()%((.*)%)(),%s*Damage%s()([^%)]*)())' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - result of first string.find.  nStarts, nEnds, sAll, sAttackCount, sAttackLabel, sAttackModifier, sAttackType, nTraitsStart, traits, nTraitsEnd = ' | #1 | #52 | s' claw +25 (agile, magical), Damage 2d10+13 slashing' | s'' | s'claw' | s'+25' | s' ' | #12 | s'agile, magical' | #28
+Runtime Notice: s'parseAttackLine 1 of 3 - nStarts, nEnds, sAll, sAttackCount, sAttackLabel, sAttackModifier, sAttackType = ' | #1 | #52 | s' claw +25 (agile, magical), Damage 2d10+13 slashing' | s'' | s'claw' | s'+25' | s' ' | nil | nil | nil
+Runtime Notice: s'parseAttackLine 2 of 3 - nTraitsStart, sTraits, nTraitsEnd = ' | #12 | s'agile, magical' | #28 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine 3 of 3 - nDamageStart, sDamage, nDamageEnd = ' | #31 | s'2d10+13 slashing' | #53 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - after setting highlight positions. rAttack, rDamage = ' | { s'startpos' = #82, s'traitsStartPos' = #93, s'traits' = s'agile, magical', s'traitsEndPos' = #109, s'endpos' = #133 } | { s'endpos' = #135, s'startpos' = #111 } | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'getAbilityBonus - after getAbilityScore, nStatScore, sStat = ' | #7 | s'strength' | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - before checking for action symbols.  sAttackBeginsWith = ' | s'' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find first symbol = ' | #1 | #2 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find second symbol = & #141;' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol = & #141;' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol  = ' | #1 | #1 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol (space)  = ' | #1 | #1 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - first character, byte = ' | s'' | #141 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - second character, byte = ' | s' ' | #32 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol Â = ' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol Â? = ' | #1 | #1 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'Attack string sAnd, sAttackBeginsWith = ' | nil | s'%s*' | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - sAND = ' | s' tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - sAttackStringPattern = ' | s'(%s*%s*(%+?%d*) ?([%w%s,%[%]%(%)%+%-]*) ([%+%-%d][%+%-%d]+)([^%(]*)()%((.*)%)(),%s*Damage%s()([^%)]*)())' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - result of first string.find.  nStarts, nEnds, sAll, sAttackCount, sAttackLabel, sAttackModifier, sAttackType, nTraitsStart, traits, nTraitsEnd = ' | #1 | #63 | s' tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning' | s'' | s'tail' | s'+23' | s' ' | #12 | s'magical, reach 15 feet' | #36
+Runtime Notice: s'parseAttackLine 1 of 3 - nStarts, nEnds, sAll, sAttackCount, sAttackLabel, sAttackModifier, sAttackType = ' | #1 | #63 | s' tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning' | s'' | s'tail' | s'+23' | s' ' | nil | nil | nil
+Runtime Notice: s'parseAttackLine 2 of 3 - nTraitsStart, sTraits, nTraitsEnd = ' | #12 | s'magical, reach 15 feet' | #36 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine 3 of 3 - nDamageStart, sDamage, nDamageEnd = ' | #39 | s'2d12+11 bludgeoning' | #64 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - after setting highlight positions. rAttack, rDamage = ' | { s'startpos' = #135, s'traitsStartPos' = #146, s'traits' = s'magical, reach 15 feet', s'traitsEndPos' = #170, s'endpos' = #197 } | { s'endpos' = #199, s'startpos' = #172 } | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'getAbilityBonus - after getAbilityScore, nStatScore, sStat = ' | #7 | s'strength' | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - before checking for action symbols.  sAttackBeginsWith = ' | s'' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find first symbol = ' | #1 | #2 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find second symbol = & #141;' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol = & #141;' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol  = ' | #1 | #1 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol (space)  = ' | #1 | #1 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - first character, byte = ' | s'' | #141 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - second character, byte = ' | s' ' | #32 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol Â = ' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - find symbol Â? = ' | #1 | #1 | s'' | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'Attack string sAnd, sAttackBeginsWith = ' | nil | s'%s*' | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - sAND = ' | s' horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - sAttackStringPattern = ' | s'(%s*%s*(%+?%d*) ?([%w%s,%[%]%(%)%+%-]*) ([%+%-%d][%+%-%d]+)([^%(]*)()%((.*)%)(),%s*Damage%s()([^%)]*)())' | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - result of first string.find.  nStarts, nEnds, sAll, sAttackCount, sAttackLabel, sAttackModifier, sAttackType, nTraitsStart, traits, nTraitsEnd = ' | #1 | #61 | s' horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | s'' | s'horns' | s'+23' | s' ' | #13 | s'magical, reach 10 feet' | #37
+Runtime Notice: s'parseAttackLine 1 of 3 - nStarts, nEnds, sAll, sAttackCount, sAttackLabel, sAttackModifier, sAttackType = ' | #1 | #61 | s' horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | s'' | s'horns' | s'+23' | s' ' | nil | nil | nil
+Runtime Notice: s'parseAttackLine 2 of 3 - nTraitsStart, sTraits, nTraitsEnd = ' | #13 | s'magical, reach 10 feet' | #37 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine 3 of 3 - nDamageStart, sDamage, nDamageEnd = ' | #40 | s'1d10+11 piercing' | #62 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'parseAttackLine - after setting highlight positions. rAttack, rDamage = ' | { s'startpos' = #199, s'traitsStartPos' = #211, s'traits' = s'magical, reach 10 feet', s'traitsEndPos' = #235, s'endpos' = #259 } | { s'endpos' = #261, s'startpos' = #237 } | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'getAbilityBonus - after getAbilityScore, nStatScore, sStat = ' | #7 | s'strength' | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #237 | #260 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #237, s'clauses' = { #1 = { s'dice' = { #1 = s'd10' }, s'modifier' = #11, s'dmgtype' = s'piercing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Horns', s'traits' = s'magical, reach 10 feet', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #261 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #111 | #134 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #111, s'clauses' = { #1 = { s'dice' = { #1 = s'd10', #2 = s'd10' }, s'modifier' = #13, s'dmgtype' = s'slashing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Claw', s'traits' = s'agile, magical', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #135 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #111 | #134 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #111, s'clauses' = { #1 = { s'dice' = { #1 = s'd10', #2 = s'd10' }, s'modifier' = #13, s'dmgtype' = s'slashing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Claw', s'traits' = s'agile, magical', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #135 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #111 | #134 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #111, s'clauses' = { #1 = { s'dice' = { #1 = s'd10', #2 = s'd10' }, s'modifier' = #13, s'dmgtype' = s'slashing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Claw', s'traits' = s'agile, magical', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #135 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #111 | #134 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #111, s'clauses' = { #1 = { s'dice' = { #1 = s'd10', #2 = s'd10' }, s'modifier' = #13, s'dmgtype' = s'slashing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Claw', s'traits' = s'agile, magical', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #135 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #111 | #134 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #111, s'clauses' = { #1 = { s'dice' = { #1 = s'd10', #2 = s'd10' }, s'modifier' = #13, s'dmgtype' = s'slashing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Claw', s'traits' = s'agile, magical', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #135 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #111 | #134 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #111, s'clauses' = { #1 = { s'dice' = { #1 = s'd10', #2 = s'd10' }, s'modifier' = #13, s'dmgtype' = s'slashing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Claw', s'traits' = s'agile, magical', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #135 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #111 | #134 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #111, s'clauses' = { #1 = { s'dice' = { #1 = s'd10', #2 = s'd10' }, s'modifier' = #13, s'dmgtype' = s'slashing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Claw', s'traits' = s'agile, magical', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #135 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #111 | #134 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #111, s'clauses' = { #1 = { s'dice' = { #1 = s'd10', #2 = s'd10' }, s'modifier' = #13, s'dmgtype' = s'slashing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Claw', s'traits' = s'agile, magical', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #135 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #111 | #134 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #111, s'clauses' = { #1 = { s'dice' = { #1 = s'd10', #2 = s'd10' }, s'modifier' = #13, s'dmgtype' = s'slashing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Claw', s'traits' = s'agile, magical', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #135 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #1 | #80 | #12 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #12 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #93 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Attack hover.  startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #1 | #80 | #12 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #12 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #93 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Attack hover.  startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #1 | #80 | #12 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #12 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #93 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Attack hover.  startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #1 | #80 | #12 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #12 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #93 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Attack hover.  startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #1 | #80 | #12 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #12 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #93 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Attack hover.  startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #1 | #80 | #12 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #12 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #93 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Attack hover.  startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #1 | #80 | #12 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #12 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - (nFirst) - using nAttackLastPos = ' | #93 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Attack hover.  startpos, endpos, traitsStartPos = ' | #82 | #133 | #93 | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'ActionAttack.getRoll - starting.  rActor, rAction = ' | { s'sType' = s'npc', s'sCreatureNode' = s'reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary', s'sCTNode' = s'', s'sName' = s'Adult Black Dragon' } | { s'traitsEndPos' = #109, s'order' = #1, s'range' = s'M', s'endpos' = #133, s'traits' = s'agile, magical', s'startpos' = #82, s'count' = #1, s'traitsStartPos' = #93, s'stat' = s'strength', s'modifier' = #25, s'crit' = #20, s'label' = s'Claw' } | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'ActionAttack.modAttack - starting.  rSource, rTarget, rRoll = ' | { s'sType' = s'npc', s'sCreatureNode' = s'reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary', s'sCTNode' = s'', s'sName' = s'Adult Black Dragon' } | nil | { s'aDice' = { #1 = s'd20' }, s'nMod' = #25, s'traits' = s'agile, magical', s'sType' = s'attack', s'sDesc' = s'[ATTACK (M)] Claw', s'bSecret' = bFALSE } | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Starting data - rActor, sEffectType, aFilter, rFilterActor, bTargetedOnly, aTraitFilter' | { s'sType' = s'npc', s'sCreatureNode' = s'reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary', s'sCTNode' = s'', s'sName' = s'Adult Black Dragon' } | s'ATK' | { #1 = s'melee' } | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Done checking for save data.  sSaveType, aFilter = ' | nil | { #1 = s'melee' } | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Returning - results = ' | {  } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'getEffectsBonusByType - results, bonuses, penalties = ' | {  } | {  } | {  } | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'getEffectsBonusByType: returning seperated bonuses and penalties. results, bonuses, penalties, nEffectCount = ' | {  } | {  } | {  } | #0 | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'modAttack - bonuses and penalties setup from attacker ATK effects.  nEffectCount, aATKEffectsUntyped, aATKEffectBonuses, aATKEffectPenalties, aCurrentBonusesByType, aCurrentPenaltiesByType = ' | #0 | {  } | {  } | {  } | { s'item' = #0, s'status' = #0, s'proficiency' = #0, s'untyped' = #0, s'circumstance' = #0 } | { s'item' = #0, s'status' = #0, s'proficiency' = #0, s'untyped' = #0, s'circumstance' = #0 } | nil | nil | nil | nil
+Runtime Notice: s'EffectsManagerPFRPG2 - getMaxEffectsBonus.  rActor, aEffectType, bModOnly, aFilter, rFilterActor = ' | { s'sType' = s'npc', s'sCreatureNode' = s'reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary', s'sCTNode' = s'', s'sName' = s'Adult Black Dragon' } | { #1 = s'Enfeebled' } | bTRUE | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Starting data - rActor, sEffectType, aFilter, rFilterActor, bTargetedOnly, aTraitFilter' | { s'sType' = s'npc', s'sCreatureNode' = s'reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary', s'sCTNode' = s'', s'sName' = s'Adult Black Dragon' } | s'Enfeebled' | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Done checking for save data.  sSaveType, aFilter = ' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Returning - results = ' | {  } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectsManagerPFRPG2 - getMaxEffectsBonus.  After getEffectsByType - aEffectsByType = ' | {  } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectsManagerPFRPG2 - getMaxEffectsBonus.  rActor, aEffectType, bModOnly, aFilter, rFilterActor = ' | { s'sType' = s'npc', s'sCreatureNode' = s'reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary', s'sCTNode' = s'', s'sName' = s'Adult Black Dragon' } | { #1 = s'Frightened' } | bTRUE | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Starting data - rActor, sEffectType, aFilter, rFilterActor, bTargetedOnly, aTraitFilter' | { s'sType' = s'npc', s'sCreatureNode' = s'reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary', s'sCTNode' = s'', s'sName' = s'Adult Black Dragon' } | s'Frightened' | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Done checking for save data.  sSaveType, aFilter = ' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Returning - results = ' | {  } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectsManagerPFRPG2 - getMaxEffectsBonus.  After getEffectsByType - aEffectsByType = ' | {  } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectsManagerPFRPG2 - getMaxEffectsBonus.  rActor, aEffectType, bModOnly, aFilter, rFilterActor = ' | { s'sType' = s'npc', s'sCreatureNode' = s'reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary', s'sCTNode' = s'', s'sName' = s'Adult Black Dragon' } | { #1 = s'Sickened' } | bTRUE | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Starting data - rActor, sEffectType, aFilter, rFilterActor, bTargetedOnly, aTraitFilter' | { s'sType' = s'npc', s'sCreatureNode' = s'reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary', s'sCTNode' = s'', s'sName' = s'Adult Black Dragon' } | s'Sickened' | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Done checking for save data.  sSaveType, aFilter = ' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Returning - results = ' | {  } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectsManagerPFRPG2 - getMaxEffectsBonus.  After getEffectsByType - aEffectsByType = ' | {  } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Starting data - rActor, sEffectType, aFilter, rFilterActor, bTargetedOnly, aTraitFilter' | { s'sType' = s'npc', s'sCreatureNode' = s'reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary', s'sCTNode' = s'', s'sName' = s'Adult Black Dragon' } | s'PROF' | { #1 = s'melee' } | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Done checking for save data.  sSaveType, aFilter = ' | nil | { #1 = s'melee' } | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Returning - results = ' | {  } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'getEffectsBonusByType - results, bonuses, penalties = ' | {  } | {  } | {  } | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'getEffectsBonusByType: returning seperated bonuses and penalties. results, bonuses, penalties, nEffectCount = ' | {  } | {  } | {  } | #0 | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectsManagerPFRPG2 - getEffectsBonus.  rActor, aEffectType, bModOnly, aFilter, rFilterActor = ' | { s'sType' = s'npc', s'sCreatureNode' = s'reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary', s'sCTNode' = s'', s'sName' = s'Adult Black Dragon' } | s'STR' | bTRUE | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Starting data - rActor, sEffectType, aFilter, rFilterActor, bTargetedOnly, aTraitFilter' | { s'sType' = s'npc', s'sCreatureNode' = s'reference.npcdata.adultblackdragon@Pathfinder Second Edition Bestiary', s'sCTNode' = s'', s'sName' = s'Adult Black Dragon' } | s'STR' | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Done checking for save data.  sSaveType, aFilter = ' | nil | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'EffectManager: getEffectsByType.  Returning - results = ' | {  } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'getEffectsBonusByType - results, bonuses, penalties = ' | {  } | {  } | {  } | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'getEffectsBonusByType: returning results, nEffectCount = ' | {  } | #0 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'modAttack: Completed processing effects and conditions.   = nAddMod, aCurrentBonusesByType, aCurrentPenaltiesByType = ' | #0 | { s'item' = #0, s'status' = #0, s'proficiency' = #0, s'untyped' = #0, s'circumstance' = #0 } | { s'item' = #0, s'status' = #0, s'proficiency' = #0, s'untyped' = #0, s'circumstance' = #0 } | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'modAttack: Final modifier nAddMod = ' | #0 | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #237 | #260 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #237, s'clauses' = { #1 = { s'dice' = { #1 = s'd10' }, s'modifier' = #11, s'dmgtype' = s'piercing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Horns', s'traits' = s'magical, reach 10 feet', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #261 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #237 | #260 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #237, s'clauses' = { #1 = { s'dice' = { #1 = s'd10' }, s'modifier' = #11, s'dmgtype' = s'piercing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Horns', s'traits' = s'magical, reach 10 feet', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #261 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #237 | #260 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #237, s'clauses' = { #1 = { s'dice' = { #1 = s'd10' }, s'modifier' = #11, s'dmgtype' = s'piercing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Horns', s'traits' = s'magical, reach 10 feet', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #261 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - nCursorPosition, nSelectionPosition = ' | #237 | #260 | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover - rDamageRolls[i] = ' | { s'startpos' = #237, s'clauses' = { #1 = { s'dice' = { #1 = s'd10' }, s'modifier' = #11, s'dmgtype' = s'piercing,magic', s'stat' = s'strength', s'mult' = #2 } }, s'label' = s'Horns', s'traits' = s'magical, reach 10 feet', s'statmult' = #1.5, s'range' = s'M', s'endpos' = #261 } | nil | nil | nil | nil | nil | nil | nil | nil | nil
+Runtime Notice: s'onHoverUpdate - Damage hover.  Control value, length = ' | s' jaws +25 (acid, magical, reach 10 feet), Damage 2d12+13 piercing plus 2d6 acid
+ claw +25 (agile, magical), Damage 2d10+13 slashing
+ tail +23 (magical, reach 15 feet), Damage 2d12+11 bludgeoning
+ horns +23 (magical, reach 10 feet), Damage 1d10+11 piercing' | #259 | nil | nil | nil | nil | nil | nil | nil | nil
