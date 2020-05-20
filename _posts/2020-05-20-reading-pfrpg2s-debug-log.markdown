@@ -47,7 +47,7 @@ This is the code to read the value. The function createNode is found here:
 https://www.fantasygrounds.com/refdoc/DB.xcp. It simply creates a top-level tag
 in the db.xml - if you set it to "on", debug messages are enabled.
 
-```HTML
+```html
 <global_debug type="string">on</global_debug>
 ```
 
