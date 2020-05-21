@@ -7,7 +7,8 @@ categories: fantasygrounds
 # Anatomy of an Extension
 
 Today, while preparing an adventure, I stumbled on this extension:
-https://www.fantasygrounds.com/forums/showthread.php?50314-PF2CreatureParser-Extension.
+[https://www.fantasygrounds.com/forums/showthread.php?50314-PF2CreatureParser-Extension]
+(https://www.fantasygrounds.com/forums/showthread.php?50314-PF2CreatureParser-Extension).
 
 It pics up stat-blocks from prepared adventure PDFs and allows parsing them, to
 add a creature to the database in a fast way. First of all, it's an awsome extension.
@@ -68,8 +69,8 @@ and the pf2creatureparser.lua using the script-tag.
 
 ## strings_pf2creatureparser.xml
 
-this file simply defines some strings by giving them names using the <string> tag
-(https://www.fantasygrounds.com/refdoc/string.xcp).
+this file simply defines some strings by giving them names using the &lt;string&gt; tag:
+[https://www.fantasygrounds.com/refdoc/string.xcp](https://www.fantasygrounds.com/refdoc/string.xcp)
 
 ## record_npc.xml
 
@@ -78,7 +79,7 @@ This is where the original npc-window is extended - using a "merge" attribute:
 ```html
 <windowclass name="npc" merge="join">
 ```
-(https://www.fantasygrounds.com/wiki/index.php/Developer_Guide_-_Rulesets_-_Layering)
+[https://www.fantasygrounds.com/wiki/index.php/Developer_Guide_-_Rulesets_-_Layering](https://www.fantasygrounds.com/wiki/index.php/Developer_Guide_-_Rulesets_-_Layering)
 
 It mainly adds the new parse tab. The parse-tab has 2 buttons. The button tag
 (button_text_large) defines in a script tag what happens when the button is
@@ -92,7 +93,7 @@ was associated with the windowclass using the script-tag. The nice convention
 to name them as the window class helps finding what you need. Script files can
 contain standard functions like onInit() or update(), but also self-defined
 functions that you use to react on buttons (e.g. Parse()). The exact API seems
-to be defined here: https://www.fantasygrounds.com/refdoc/windowinstance.xcp
+to be defined here: [https://www.fantasygrounds.com/refdoc/windowinstance.xcp](https://www.fantasygrounds.com/refdoc/windowinstance.xcp)
 
 ## Next Steps
 

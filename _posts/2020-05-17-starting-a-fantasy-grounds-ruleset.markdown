@@ -9,7 +9,7 @@ categories: fantasygrounds
 Starting a ruleset isn't hard - the problem is to find the information you require
 and to find out where / what to do.
 
-According to https://www.fantasygrounds.com/modguide/introduction.xcp you only
+According to [https://www.fantasygrounds.com/modguide/introduction.xcp](https://www.fantasygrounds.com/modguide/introduction.xcp) you only
 need a base.xml file in the right directory. So I started with
 `%APPDATA%\Fantasy Grounds\rulesets\CP2020` because I want to create a CP2020
 ruleset and added a base.xml file
