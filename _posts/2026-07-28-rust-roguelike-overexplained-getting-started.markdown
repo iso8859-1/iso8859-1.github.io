@@ -32,8 +32,7 @@ cargo run
 
 `cargo init` should create a new directory named `roguelike-overexplained`, initialize a [git](https://git-scm.com/) repository inside it and place the code for a very basic application there. (If you are already inside a git repository, cargo will skip the git part and leave the existing repository alone.) `cargo run` compiles the application, links the binary and runs it. After a few seconds of compiling, the command line should print `Hello, world!`. ["Hello World"](https://en.wikipedia.org/wiki/Hello,_world) is an established tradition for a first program.
 
-> [!IMPORTANT]
-> If this does not work, do not continue but try to fix your Rust installation (e.g. by repeating the steps from rustup)!
+> **IMPORTANT** If this does not work, do not continue but try to fix your Rust installation (e.g. by repeating the steps from rustup)!
 
 ### Cargo
 
