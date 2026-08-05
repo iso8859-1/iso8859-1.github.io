@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: roguelike-post
 title:  "Rust Roguelike Overexplained: Getting Started"
 date:   2026-07-28 08:41:00 +0200
 categories: [roguelike, rust, tutorial, bevy]

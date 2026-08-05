@@ -1,0 +1,19 @@
+---
+layout: post
+---
+{{ content }}
+
+<footer class="roguelike-series-footer">
+  <hr>
+  <h3>Rust Roguelike Overexplained — All Posts</h3>
+  <ul>
+    {% assign series_posts = site.categories.roguelike | sort: 'date' %}
+    {% for series_post in series_posts %}
+      <li>
+        <a href="{{ series_post.url | relative_url }}">{{ series_post.title }}</a>
+        <small>({{ series_post.date | date: "%Y-%m-%d" }})</small>
+      </li>
+    {% endfor %}
+  </ul>
+  <p>Source code: <a href="https://github.com/iso8859-1/roguelike-overexplained">github.com/iso8859-1/roguelike-overexplained</a></p>
+</footer>

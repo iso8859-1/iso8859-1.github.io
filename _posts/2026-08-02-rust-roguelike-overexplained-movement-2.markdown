@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: roguelike-post
 title:  "Rust Roguelike Overexplained: Movement 2"
 date:   2026-08-02 17:30:00 +0200
 categories: [roguelike, rust, tutorial, bevy]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: roguelike-post
 title:  "Rust Roguelike Overexplained: Map Coordinates"
 date:   2026-08-04 21:30:00 +0200
 categories: [roguelike, rust, tutorial, bevy]
